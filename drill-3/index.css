@@ -1,0 +1,64 @@
+header {
+    height: 100px;
+    
+    background-color: rgb(181, 181, 181);
+    padding: 30px;
+    left: 0;
+    right: 0;
+}
+div.box {
+    height: 100%;
+    width: 100px;
+    background-color: rgb(33, 120, 146);
+}
+section.text {
+    height: 300px;
+    width: 100%;
+    margin: 50px;
+    text-align: center;
+}
+div.shade1 {
+    height: 250px;
+    width: 100%;
+    background-color: rgb(91, 193, 252);
+}
+div.shade2 {
+    height: 250px;
+    width: 100%;
+    background-color: rgb(130, 255, 213);
+}
+div.shade3 {
+    height: 250px;
+    width: 100%;
+    background-color: rgb(212, 255, 127);
+}
+div.shade4 {
+    height: 250px;
+    width: 100%;
+    background-color: rgb(255, 225, 75);
+}
+a {
+    text-align: center;
+    color:rgb(255, 0, 0);
+    margin: 40vh;
+}
+footer.helper {
+    background-color: black;
+    height: 10vh;
+    width: 10vh;
+    border-radius: 100%;
+    box-sizing: border-box;
+    position: sticky;
+    display: flex;
+    justify-content: flex-end;
+    bottom: 20px;
+    left: 20px;
+}
+div.let {
+    width: 100%;
+    padding: 2vh;
+    height: auto;
+    color:rgb(255, 255, 255);
+    font-size: 300%;
+    text-align: center;
+}
